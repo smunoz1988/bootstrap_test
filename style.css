@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main Content */
+.main-content {
+  width: 60%;
+}
+
+.main {
+  height: 600px;
+}
+
+h1 {
+  font-size: 48px !important;
+  color: #091e42;
+}
+
+.main p {
+  color: #344563;
+  font-size: 20px;
+}
+
+.main a {
+  color: #7f8Cff;
+  font-weight: 500;
+}
+
+.main ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.main li {
+  margin-right: 10px;
+}
