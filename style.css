@@ -10,7 +10,10 @@
 }
 
 .main {
-  height: 600px;
+  height: 916px;
+  background-image: url(asset/Header\ bg@2x.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 h1 {
@@ -35,4 +38,42 @@ h1 {
 
 .main li {
   margin-right: 10px;
+}
+
+.language-list {
+  list-style-type: none;
+}
+
+.language-list li {
+  background-color: #ebebff;
+}
+
+.card-container {
+  justify-content: center;
+}
+
+.card-item {
+  width: 75%;
+}
+
+.card-item > div {
+  width: 50%;
+}
+
+.work-image {
+  width: 100%;
+}
+
+.anchor a {
+  color: #7f8Cff;
+  font-weight: 500;
+}
+
+.anchor li{
+  margin-right: 10px;
+}
+
+.anchor ul {
+  list-style-type: none;
+  padding: 0;
 }
